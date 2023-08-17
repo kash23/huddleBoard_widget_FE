@@ -7,7 +7,7 @@ using System.Linq;
 using System.Drawing.Drawing2D;
 
 /*
- * Created by kishorekumar on 17-08-2023.
+ * Created by Kishore Kumar S and Akash C on 17-08-2023.
  */
 
 namespace AccountDetailWindowsFormApp
